@@ -96,3 +96,11 @@ ulonglong FUN_140004d40(longlong *param_1,longlong param_2,undefined4 *param_3)
 ```
 
 So thats it.
+
+## Make it destructive
+
+You can change the importantData address to 0x0 and remove error checks -> BSOD
+You can change the importantData address to a kernel address -> BSOD or privilege escalation if you are really really really lucky
+
+## Why im publishing this
+because people works in amd psirt rejected my mail so, this should not be a problem :)
