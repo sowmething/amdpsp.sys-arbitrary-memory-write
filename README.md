@@ -103,4 +103,5 @@ You can change the importantData address to 0x0 and remove error checks -> BSOD
 You can change the importantData address to a kernel address -> BSOD or privilege escalation if you are really really really lucky
 
 ## Why im publishing this
-because people works in amd psirt rejected my mail so, this should not be a problem :)
+because people works in amd psirt rejected my mail so, this should not be a problem :) These guys told me what it supposed to be. Funny right?
+<img width="1500" height="432" alt="rejection" src="https://github.com/user-attachments/assets/78d083bc-9e12-4e85-9c4d-4f3cbd52055f" />
