@@ -3,7 +3,7 @@
 This repository contains a Proof of Concept (PoC) demonstrating a memory overwrite vulnerability via an exposed ioctl handler in the `AmdPsp` driver.
 
 ## ⚠️ Disclaimer
-This code is provided exclusively for educational purposes, security research, and vulnerability mitigation verification. It is intended to demonstrate how unvalidated user-supplied pointers inside `DeviceIoControl` can lead to localized data corruption within user-space memory. The author (DevAddPhysicalMemory assumes no responsibility for misuse or damages resulting from this code.
+This code is provided exclusively for educational purposes, security research, and vulnerability mitigation verification. It is intended to demonstrate how unvalidated user-supplied pointers inside `DeviceIoControl` can lead to localized data corruption within user-space memory. The author (DevAddPhysicalMemory) assumes no responsibility for misuse or damages resulting from this code.
 
 ## Vulnerability Overview
 
